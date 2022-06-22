@@ -1,0 +1,48 @@
+
+. container{
+    width: 100px;
+    margin:auto;
+    border: solid 2px gray;
+}
+    
+.header-flexbox{
+    display: flex;
+    justify-content: space-between;
+    border: solid 2px gray;
+}
+.banner-container{
+    display:flex;
+    margin:auto;
+    border:solid 2px blue;
+}
+.services-flexbox{
+     display:flex;
+     justify-content:space-between;
+     width: auto;
+     border: solid 2px gold;
+} 
+.portpolio-flexbox{
+    display:flex;
+    justify-content:space-between;
+    width:auto;
+    border: solid 2px green;
+}
+.about-flexbox{
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+    border: solid 2px black;
+    height: 20px;
+}
+.contactus-flexbox{
+    display: flex;
+    justify-content:space-around;
+    width: auto;
+    border: solid 2px red ;
+}
+
+
+
+
+
+
